@@ -2,28 +2,22 @@
 
 En este proyecto vamos a crear colaborativamente entre los voluntarios el sitio web de la edición 2017 del Agile Open Camp - Bariloche.
 
-Existe una demo online en: 
-http://agileopencamp.com.ar/2017/
-
 ## Colaboradores
 
 Colaboran en este proyecto
 
 * Mauro Strione - InnQube ([mauro.strione@innqube.com](mauro.strione@innqube.com))
-* Elías Molini - [eliasmolini@gmail.com](eliasmolini@gmail.com)
 * Omar Fernandez - ([omarfl7@gmail.com](omarfl7@gmail.com))
 * Tomás Christie -  InnQube ([tomas.christie@innqube.com](tomas.christie@innqube.com))
-* Cristina Cortés - (Agregar email)
-* Mara Villamor - (Agregar email)
 
 ## ¿Cómo sumarse?
 
-Existe un grupo de telegram creado para coordinar los trabajos, se pueden unir con el siguiente link:
+Existe un grupo de slack creado para coordinar los trabajos, se pueden unir con el siguiente link:
 
-https://telegram.me/joinchat/BDMXqQa8rIj5lFOT_5jZfQ
+https://goo.gl/ECSJch
 
 ## Página en desarrollo 
 
 Para ver como va quedando la página en desarrollo, en el siguiente link:
 
-https://rawgit.com/mstrione/AOC2017-BRC-website/master/httpdocs/index.html
+https://rawgit.com/omar2308/AOC2018-BRC-website/master/httpdocs/index.html
