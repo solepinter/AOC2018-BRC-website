@@ -22,4 +22,4 @@ Para ver como va quedando la página en desarrollo se tiene que tener el formato
 https://cdn.rawgit.com/omar2308/AOC2018-BRC-website/<COMMIT_SHA>/httpdocs/index.html
 
 Por ejemplo, para el último commit sería:
-https://rawgit.com/omar2308/AOC2018-BRC-website/master/httpdocs/index.html
+https://rawgit.com/omar2308/AOC2018-BRC-website/fd09b875f00951bb8a395078d6b3c864b04a4ae9/httpdocs/index.html
