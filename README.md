@@ -19,7 +19,7 @@ https://goo.gl/ECSJch
 ## Página en desarrollo 
 
 Para ver como va quedando la página en desarrollo se tiene que tener el formato siguiente:
-https://cdn.rawgit.com/omar2308/AOC2018-BRC-website/<COMMIT_SHA>>/httpdocs/index.html
+https://cdn.rawgit.com/omar2308/AOC2018-BRC-website/<COMMIT_SHA>/httpdocs/index.html
 
 Por ejemplo, para el último commit sería:
 https://rawgit.com/omar2308/AOC2018-BRC-website/master/httpdocs/index.html
