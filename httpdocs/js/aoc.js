@@ -71,7 +71,7 @@
             patterns: {
                 typeform: {
                     index: 'typeform.com',
-                    src: 'https://aoc1.typeform.com/to/hjzYAM'
+                    src: 'https://aoc1.typeform.com/to/lapUWN'
                 }
             }
         }
