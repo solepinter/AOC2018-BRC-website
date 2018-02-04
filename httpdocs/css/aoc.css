@@ -458,7 +458,7 @@ section#twitter {
 }
 
 ::selection {
-  color: white;
+  color: black;
   text-shadow: none;
   background: #222222;
 }
